@@ -18,7 +18,7 @@ toc: true
 
 ## Papers
 ### In Progress
-Denton, Emily L., et al. "Exploiting linear structure within convolutional networks for efficient evaluation." Advances in neural information processing systems. 2014. [notes](https://paper.dropbox.com/doc/present/qkKUPu3amNWBu8aXNw6a3)
+- Denton, Emily L., et al. "Exploiting linear structure within convolutional networks for efficient evaluation." Advances in neural information processing systems. 2014. [notes](https://paper.dropbox.com/doc/Exploiting-Linear-Structure-Within-Convolutional-Networks-for-Efficient-Evaluation-qkKUPu3amNWBu8aXNw6a3)
 ### To Do
 ### Completed
 
