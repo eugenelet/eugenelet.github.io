@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Home"
 excerpt: "I'm Eugene, a 2nd year PhD student in Electronics Engineering at National Chiao Tung University, advised by [Dr. Chen-Yi Lee](http://www.si2lab.org/faculty/)."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -15,6 +15,8 @@ layouts_gallery:
 last_modified_at: 2018-12-29T14:49:33-05:00
 toc: true
 ---
+
+## About Me
 
 I'm Eugene, a 2nd year PhD student in Electronics Engineering at National Chiao Tung University, advised by [Dr. Chen-Yi Lee](http://www.si2lab.org/faculty/). My current interest is in the **theory of generalization in deep learning** and its application on **biomedical signal**. I completed my undergraduate studies at National Chiao Tung University in 2017 and went straight to pursue my PhD.
 

@@ -4,6 +4,8 @@ main:
     url: /patents/
   - title: "Publications"
     url: /publications/
+  - title: "Readings"
+    url: /readings/
     #- title: "Posts"
     #url: /blog/
   # - title: "About"
