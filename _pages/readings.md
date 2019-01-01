@@ -19,6 +19,7 @@ toc: true
 ## Papers
 ### In Progress
 
+- Denil, M., Shakibi, B., Dinh, L. and De Freitas, N., 2013. Predicting parameters in deep learning. In Advances in neural information processing systems (pp. 2148-2156).[notes](https://paper.dropbox.com/doc/Predicting-Parameters-in-Deep-Learning--AUzeNklbkL7_A_17Py1DwH75AQ-pWnptEoyDoDa2cjulgxFg)
 - Choromanska, A., Henaff, M., Mathieu, M., Arous, G.B. and LeCun, Y., 2015, February. The loss surfaces of multilayer networks. In Artificial Intelligence and Statistics (pp. 192-204). [notes](https://paper.dropbox.com/doc/The-Loss-Surfaces-of-Multilayer-Networks--AUqi8pw85Wf8dYJ1yqpDBwO~AQ-06mo2ofmZnzMAlK3yuSeJ)
 - Baldi, P. and Hornik, K., 1989. Neural networks and principal component analysis: Learning from examples without local minima. Neural networks, 2(1), pp.53-58. [notes](https://paper.dropbox.com/doc/Neural-Networks-and-Principal-Component-Analysis-Learning-from-Examples-Without-Local-Minima--AUo5Qdfq23WIMQ81wiPG8kUKAQ-r27yPejtUJF8lSBoT1E0b)
 - Kawaguchi, K., 2016. Deep learning without poor local minima. In Advances in Neural Information Processing Systems (pp. 586-594). [notes](https://paper.dropbox.com/doc/Deep-Learning-without-Poor-Local-Minima--AUpc_6hZIHODyGleUuZ_fWGKAQ-1t6FtV1588QF7KY7u8VFs)
