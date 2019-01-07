@@ -26,7 +26,7 @@ toc: true
 - Kawaguchi, K., 2016. Deep learning without poor local minima. In Advances in Neural Information Processing Systems (pp. 586-594). [notes](https://paper.dropbox.com/doc/Deep-Learning-without-Poor-Local-Minima--AUpc_6hZIHODyGleUuZ_fWGKAQ-1t6FtV1588QF7KY7u8VFs)
 
 ### To Do
-
+- Han, S., Mao, H. and Dally, W.J., 2015. Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding. arXiv preprint arXiv:1510.00149.
 ### Completed
 
 - Denil, M., Shakibi, B., Dinh, L. and De Freitas, N., 2013. Predicting parameters in deep learning. In Advances in neural information processing systems (pp. 2148-2156).[notes](https://paper.dropbox.com/doc/Predicting-Parameters-in-Deep-Learning--AUzeNklbkL7_A_17Py1DwH75AQ-pWnptEoyDoDa2cjulgxFg)
