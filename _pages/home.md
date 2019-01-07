@@ -12,7 +12,7 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2018-12-29T14:49:33-05:00
+last_modified_at: 2019-1-7T12:59:33+08:00
 toc: true
 ---
 
@@ -39,6 +39,7 @@ I'm Eugene, a 2nd year PhD student in Electronics Engineering at National Chiao 
 
 | Name                      | Type                  | Year                                         |
 | ------------------------- | ----------------- | ----------------------------------------------------- |
+| Broadcom Foundation Scholarship | Recipient | 2018 |
 | Synopsys ARC Contest | 3rd Placement | 2017 |
 | International ICCAD Contest | Award Recipient | 2016 |
 
