@@ -47,16 +47,27 @@ I'm Eugene, a 2nd year PhD student in Electronics Engineering at National Chiao 
 
 ## Skills
 
-| Languages/Tools                                        | Proficiency                                          |
+| Languages                                        | Proficiency                                          |
 | ------------------------------------------- | ----------------------------------------------------- |
 | C/C++ | High |
 | Python | High |
 | Matlab | High |
 | Verilog | High |
+| System Verilog | Medium |
 | Dart | Medium |
 | Java | Medium |
-| System Verilog | Medium |
+| Tools                                        | Proficiency                                          |
+| ------------------------------------------- | ----------------------------------------------------- |
 | Tensorflow | High |
 | Flutter | Medium |
 | PyTorch | High |
 | LaTeX | Medium |
+| Domain Knowledge                                        | Proficiency                                          |
+| ------------------------------------------- | ----------------------------------------------------- |
+| Biomedical Signal Processing | High |
+| Computer Vision | High |
+| Digital Speech Processing | Medium |
+| Natural Language Processing | Medium |
+| Machine Learning Algorithm Development | High |
+| Deep Learning Application Development | High |
+| Mobile Application Development | Medium |
