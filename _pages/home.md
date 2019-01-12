@@ -56,12 +56,14 @@ I'm Eugene, a 2nd year PhD student in Electronics Engineering at National Chiao 
 | System Verilog | Medium |
 | Dart | Medium |
 | Java | Medium |
+
 | Tools                                        | Proficiency                                          |
 | ------------------------------------------- | ----------------------------------------------------- |
 | Tensorflow | High |
 | Flutter | Medium |
 | PyTorch | High |
 | LaTeX | Medium |
+
 | Domain Knowledge                                        | Proficiency                                          |
 | ------------------------------------------- | ----------------------------------------------------- |
 | Biomedical Signal Processing | High |
