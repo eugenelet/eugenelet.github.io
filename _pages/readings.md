@@ -16,7 +16,7 @@ last_modified_at: 2019-01-02T16:30:33+08:00
 toc: true
 ---
 
-## Papers
+## Papers: Generalization
 ### In Progress
 
 - Zhang, C., Bengio, S., Hardt, M., Recht, B. and Vinyals, O., 2016. Understanding deep learning requires rethinking generalization. arXiv preprint arXiv:1611.03530. [notes](https://paper.dropbox.com/doc/Understanding-Deep-Learning-Requires-Rethinking-Generalization--AU3roTssNC5dGuU_Zyd~s4x2AQ-bFysW6nzLeZRREcqHVgnP)
@@ -31,6 +31,30 @@ toc: true
 
 - Denil, M., Shakibi, B., Dinh, L. and De Freitas, N., 2013. Predicting parameters in deep learning. In Advances in neural information processing systems (pp. 2148-2156).[notes](https://paper.dropbox.com/doc/Predicting-Parameters-in-Deep-Learning--AUzeNklbkL7_A_17Py1DwH75AQ-pWnptEoyDoDa2cjulgxFg)
 - Denton, E.L., Zaremba, W., Bruna, J., LeCun, Y. and Fergus, R., 2014. Exploiting linear structure within convolutional networks for efficient evaluation. In Advances in neural information processing systems (pp. 1269-1277). [notes](https://paper.dropbox.com/doc/Exploiting-Linear-Structure-Within-Convolutional-Networks-for-Efficient-Evaluation-qkKUPu3amNWBu8aXNw6a3)
+
+
+
+## Papers: AutoML
+### In Progress
+
+### To Do
+
+### Completed
+
+
+## Papers: Object Detection
+### In Progress
+- Redmon, J., Divvala, S., Girshick, R. and Farhadi, A., 2016. You only look once: Unified, real-time object detection. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 779-788).
+- Redmon, J. and Farhadi, A., 2017. YOLO9000: better, faster, stronger. arXiv preprint.
+-Redmon, J. and Farhadi, A., 2018. Yolov3: An incremental improvement. arXiv preprint arXiv:1804.02767.
+
+### To Do
+
+### Completed
+
+
+
+
 
 ## Books
 
