@@ -1,6 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
+classes: wide
 layout: archive
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
