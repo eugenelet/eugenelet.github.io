@@ -14,3 +14,8 @@ layouts_gallery:
     alt: "archive layout example"
 last_modified_at: 2018-12-29T14:49:33-05:00
 ---
+
+# Conference
+Eugene Lee, Tsu-Jui Hsu, Chen-Yi Lee, "**Continuous Blood Glucose Monitoring on Wearable Device using Photoplethysmography,**" NSF IoT Workshop, Nov 2018
+
+# Journal
