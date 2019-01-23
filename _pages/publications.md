@@ -1,6 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
+layout: archive
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -15,7 +16,7 @@ layouts_gallery:
 last_modified_at: 2018-12-29T14:49:33-05:00
 ---
 
-# Conference
+## Conference
 *Eugene Lee*, Tsu-Jui Hsu, Chen-Yi Lee, "**Continuous Blood Glucose Monitoring on Wearable Device using Photoplethysmography,**" NSF IoT Workshop, Nov 2018
 
-# Journal
+## Journal
