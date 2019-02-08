@@ -12,7 +12,7 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2019-01-02T16:30:33+08:00
+last_modified_at: 2019-02-08T16:30:33+08:00
 toc: true
 ---
 
@@ -41,18 +41,18 @@ toc: true
 
 ### Completed
 
+Liu, C., Zoph, B., Neumann, M., Shlens, J., Hua, W., Li, L.J., Fei-Fei, L., Yuille, A., Huang, J. and Murphy, K., 2018. Progressive neural architecture search. In Proceedings of the European Conference on Computer Vision (ECCV) (pp. 19-34). [notes](https://paper.dropbox.com/doc/Progressive-Neural-Architecture-Search--AXE0zShTqR3Qx47Z7k17RuJuAQ-Bo7hCC6TJU5mUoeUqAMbz)
 
 ## Papers: Object Detection
 ### In Progress
-- Redmon, J., Divvala, S., Girshick, R. and Farhadi, A., 2016. You only look once: Unified, real-time object detection. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 779-788).
-- Redmon, J. and Farhadi, A., 2017. YOLO9000: better, faster, stronger. arXiv preprint.
-- Redmon, J. and Farhadi, A., 2018. Yolov3: An incremental improvement. arXiv preprint arXiv:1804.02767.
 
 ### To Do
 
 ### Completed
 
-
+- Redmon, J., Divvala, S., Girshick, R. and Farhadi, A., 2016. You only look once: Unified, real-time object detection. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 779-788).
+- Redmon, J. and Farhadi, A., 2017. YOLO9000: better, faster, stronger. arXiv preprint.
+- Redmon, J. and Farhadi, A., 2018. Yolov3: An incremental improvement. arXiv preprint arXiv:1804.02767.
 
 
 
