@@ -28,6 +28,8 @@ I'm Eugene, a 2nd year PhD student in Electronics Engineering at National Chiao 
 | ------------------------- | ----------------- | ----------------------------------------------------- |
 | Non-invasive estimation of blood glucose level | Analyze Photoplethysmogram (PPG) signals to find its correlation with blood glucose level using machine learning methods | 2017~now |
 | Autonomous learning | The study of the generalization of neural networks | 2018~now |
+| SSD Hot-Cold Data Prediction | The prediction of hot and cold data in solid state drives to enhance read/write performance | 2018~now |
+| SSD Next Address Prediction | The prediction of next read/write address in solid state drives to enhance read/write performance | 2019~now |
 
 ### Completed
 
