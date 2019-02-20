@@ -27,6 +27,7 @@ toc: true
 
 ### To Do
 - Han, S., Mao, H. and Dally, W.J., 2015. Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding. arXiv preprint arXiv:1510.00149.
+
 ### Completed
 
 - Denil, M., Shakibi, B., Dinh, L. and De Freitas, N., 2013. Predicting parameters in deep learning. In Advances in neural information processing systems (pp. 2148-2156).[notes](https://paper.dropbox.com/doc/Predicting-Parameters-in-Deep-Learning--AUzeNklbkL7_A_17Py1DwH75AQ-pWnptEoyDoDa2cjulgxFg)
@@ -37,11 +38,15 @@ toc: true
 ## Papers: AutoML
 ### In Progress
 
+- Dikov, G., van der Smagt, P. and Bayer, J., 2019. Bayesian Learning of Neural Network Architectures. arXiv preprint arXiv:1901.04436.
+- Liu, H., Simonyan, K. and Yang, Y., 2018. Darts: Differentiable architecture search. arXiv preprint arXiv:1806.09055.
+- Pham, H., Guan, M.Y., Zoph, B., Le, Q.V. and Dean, J., 2018. Efficient neural architecture search via parameter sharing. arXiv preprint arXiv:1802.03268.
+
 ### To Do
 
 ### Completed
 
-Liu, C., Zoph, B., Neumann, M., Shlens, J., Hua, W., Li, L.J., Fei-Fei, L., Yuille, A., Huang, J. and Murphy, K., 2018. Progressive neural architecture search. In Proceedings of the European Conference on Computer Vision (ECCV) (pp. 19-34). [notes](https://paper.dropbox.com/doc/Progressive-Neural-Architecture-Search--AXE0zShTqR3Qx47Z7k17RuJuAQ-Bo7hCC6TJU5mUoeUqAMbz)
+- Liu, C., Zoph, B., Neumann, M., Shlens, J., Hua, W., Li, L.J., Fei-Fei, L., Yuille, A., Huang, J. and Murphy, K., 2018. Progressive neural architecture search. In Proceedings of the European Conference on Computer Vision (ECCV) (pp. 19-34). [notes](https://paper.dropbox.com/doc/Progressive-Neural-Architecture-Search--AXE0zShTqR3Qx47Z7k17RuJuAQ-Bo7hCC6TJU5mUoeUqAMbz)
 
 ## Papers: Object Detection
 ### In Progress
@@ -60,6 +65,7 @@ Liu, C., Zoph, B., Neumann, M., Shlens, J., Hua, W., Li, L.J., Fei-Fei, L., Yuil
 
 ### In Progress
 - Ziemer, W.P. and Torres, M., 2017. Modern real analysis (Vol. 278). Springer.
+- Luenberger, D.G. and Ye, Y., 1984. Linear and nonlinear programming (Vol. 2). Reading, MA: Addison-wesley.
 
 ### To Do
 - Kevin P. Murphy. 2012. Machine Learning: A Probabilistic Perspective. The MIT Press.
