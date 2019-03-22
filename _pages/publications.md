@@ -14,10 +14,13 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2010-01-23T14:49:33-05:00
+last_modified_at: 2019-03-22T21:49:33-05:00
 ---
 
 ## Conference
+
+*Eugene Lee*, Tsu-Jui Hsu, Chen-Yi Lee, "**Centralized State Sensing Using Sensor Array on Wearable Device,**" International Symposium on Circuits and Systems, May 2019
+
 *Eugene Lee*, Tsu-Jui Hsu, Chen-Yi Lee, "**Continuous Blood Glucose Monitoring on Wearable Device using Photoplethysmography,**" NSF IoT Workshop, Nov 2018
 
 ## Journal
