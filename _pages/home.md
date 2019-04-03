@@ -12,7 +12,7 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2019-1-7T12:59:33+08:00
+last_modified_at: 2019-4-3T13:50:33+08:00
 toc: true
 ---
 
