@@ -37,10 +37,26 @@ I'm Eugene, a 2nd year PhD student in Electronics Engineering at National Chiao 
 | ------------------------- | ----------------- | ----------------------------------------------------- |
 | Hardware implementation of object tracking algorithm | Hardware Implementation of Scale Invariant Feature Transform (SIFT) co-designed with a Software Implementation of ground vehicle | 2015~2016 |
 
+---
+
+## Projects
+
+### On-going
+
+| Name                      | Description                  | Year                                         |
+| ------------------------- | ----------------- | ----------------------------------------------------- |
+| Smoke and Fire Detection for Video Surveillance | Deteciton of hazards caused by fire in Taiwan using video camera as a replacement for conventional smoke and fire alarms  | 2019 |
+
+### Completed
+
+
+---
+
 ## Awards
 
 | Name                      | Type                  | Year                                         |
 | ------------------------- | ----------------- | ----------------------------------------------------- |
+| Broadcom Foundation Scholarship | Recipient | 2019 |
 | Broadcom Foundation Scholarship | Recipient | 2018 |
 | Synopsys ARC Contest | 3rd Placement | 2017 |
 | International ICCAD Contest | Award Recipient | 2016 |
