@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Eugene Lee"
-  avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Looking for the optimal solution."
   location         : "Hsinchu, Taiwan"
   email            : "eugene@ieee.org"
