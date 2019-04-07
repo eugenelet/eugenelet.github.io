@@ -32,7 +32,7 @@ breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
-  facebook: #"https://developers.facebook.com/docs/plugins/comments"
+  facebook: "https://developers.facebook.com/docs/plugins/comments"
     appid                :
       num_posts            : # 5 (default)
       colorscheme          : # "light" (default), "dark"
