@@ -43,7 +43,7 @@ comments:
   utterances:
     theme                : # "github-light" (default), "github-dark"
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master"
   commitMessage          : "New comment by {fields.name}"
   filename               : comment-{@timestamp}
