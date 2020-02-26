@@ -18,7 +18,7 @@ toc: true
 
 ## About Me
 
-I'm Eugene, a 2nd year PhD student in Electronics Engineering at National Chiao Tung University, advised by [Dr. Chen-Yi Lee](http://www.si2lab.org/faculty/). My current interest is in the **theory of generalization in deep learning** and its application on **biomedical signal**. I completed my undergraduate studies at National Chiao Tung University in 2017 and went straight to pursue my PhD.
+3rd year PhD student in Electronics Engineering at National Chiao Tung University, advised by [Dr. Chen-Yi Lee](http://www.si2lab.org/faculty/). Focusing in machine learning approaches suited for self-supervised or autonomous learning. Works mainly on meta-learning, self-supervised learning and neural architecture search problem. Also interested in the application of machine learning techniques on computer vision and multi-dimensional signal related tasks.
 
 ## Research
 
@@ -26,15 +26,16 @@ I'm Eugene, a 2nd year PhD student in Electronics Engineering at National Chiao 
 
 | Name                      | Description                  | Year                                         |
 | ------------------------- | ----------------- | ----------------------------------------------------- |
-| Non-invasive estimation of blood glucose level | Analyze Photoplethysmogram (PPG) signals to find its correlation with blood glucose level using machine learning methods | 2017~now |
-| Autonomous learning | The study of the generalization of neural networks | 2018~now |
-| SSD Hot-Cold Data Prediction | The prediction of hot and cold data in solid state drives to enhance read/write performance | 2018~now |
-| SSD Next Address Prediction | The prediction of next read/write address in solid state drives to enhance read/write performance | 2019~now |
+| Autonomous learning | Motivated by the neuroscience understanding in the close integration of system 1 and system 2 on the behaviour of the human brain, this project aims at designing a self-supervised or autonomous system that is able to perform learning without an explicit objective | 2018~now |
+| Remote Heart Rate Estimation | Commonly used methodology in heart rate estimation requires close contact with the human skin, e.g. electrocardiogram and photoplethysmogram. This project uses a video camera to capture the face of a subject as a signal source for heart rate estimation, hence heart rate estimation can be done remotely | 2017~now |
+| Non-Invasive Blood Glucose Level Estimation | With the inconvenience of current methodology of blood glucose level estimation, this project aims to estimate blood glucose level through the extraction of biomarkers from photoplethysmogram | 2017~now |
 
 ### Completed
 
 | Name                      | Description                  | Year                                         |
 | ------------------------- | ----------------- | ----------------------------------------------------- |
+| SSD Hot-Cold Data Prediction | The prediction of hot and cold data in solid state drives to enhance read/write performance | 2018~now |
+| SSD Next Address Prediction | The prediction of next read/write address in solid state drives to enhance read/write performance | 2019~now |
 | Hardware implementation of object tracking algorithm | Hardware Implementation of Scale Invariant Feature Transform (SIFT) co-designed with a Software Implementation of ground vehicle | 2015~2016 |
 
 ---
@@ -43,12 +44,12 @@ I'm Eugene, a 2nd year PhD student in Electronics Engineering at National Chiao 
 
 ### On-going
 
-| Name                      | Description                  | Year                                         |
-| ------------------------- | ----------------- | ----------------------------------------------------- |
-| Smoke and Fire Detection for Video Surveillance | Deteciton of hazards caused by fire in Taiwan using video camera as a replacement for conventional smoke and fire alarms  | 2019 |
 
 ### Completed
 
+| Name                      | Description                  | Year                                         |
+| ------------------------- | ----------------- | ----------------------------------------------------- |
+| Smoke and Fire Detection for Video Surveillance | Deteciton of hazards caused by fire in Taiwan using video camera as a replacement for conventional smoke and fire alarms  | 2019 |
 
 ---
 
@@ -57,7 +58,6 @@ I'm Eugene, a 2nd year PhD student in Electronics Engineering at National Chiao 
 | Name                      | Type                  | Year                                         |
 | ------------------------- | ----------------- | ----------------------------------------------------- |
 | Broadcom Foundation Scholarship | Recipient | 2019 |
-| Broadcom Foundation Scholarship | Recipient | 2018 |
 | Synopsys ARC Contest | 3rd Placement | 2017 |
 | International ICCAD Contest | Award Recipient | 2016 |
 
