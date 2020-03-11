@@ -1,11 +1,11 @@
 # main links
-main:
-  - title: "Patents"
-    url: /patents/
+# main:
+#   - title: "Patents"
+#     url: /patents/
   - title: "Publications"
     url: /publications/
-  - title: "Readings"
-    url: /readings/
+#   - title: "Readings"
+#     url: /readings/
   - title: "Posts"
     url: /posts/
   # - title: "About"
