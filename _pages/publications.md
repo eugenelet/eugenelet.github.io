@@ -31,4 +31,4 @@ last_modified_at: 2019-03-22T21:49:33-05:00
 
 ## Journal
 
-*Eugene Lee* and Chen-Yi Lee, "**PPG-Based Smart Wearable Device with Energy-Efficient Computing for Mobile Health-care Applications,**" IEEE Sensors Journal 2021
+*Eugene Lee* and Chen-Yi Lee, "**PPG-Based Smart Wearable Device with Energy-Efficient Computing for Mobile Health-care Applications,**" IEEE Sensors Journal, vol. 21, no. 12, pp. 13564-13573, 15 June, 2021, doi: 10.1109/JSEN.2021.3069460.
