@@ -18,7 +18,7 @@ toc: true
 
 ## About Me
 
-3rd year PhD student in Electronics Engineering at National Chiao Tung University, advised by [Dr. Chen-Yi Lee](http://www.si2lab.org/faculty/). Focusing in machine learning approaches suited for self-supervised or autonomous learning. Works mainly on meta-learning, self-supervised learning and neural architecture search problem. Also interested in the application of machine learning techniques on computer vision and multi-dimensional signal related tasks.
+4th year PhD student in Electronics Engineering at National Chiao Tung University, advised by [Dr. Chen-Yi Lee](http://www.si2lab.org/faculty/). Focusing in machine learning approaches suited for self-supervised or autonomous learning. Works mainly on meta-learning, self-supervised learning and neural architecture search problem. Also interested in the application of machine learning techniques on computer vision and multi-dimensional signal related tasks.
 
 ## Research
 
@@ -57,6 +57,8 @@ toc: true
 
 | Name                      | Type                  | Year                                         |
 | ------------------------- | ----------------- | ----------------------------------------------------- |
+| Novatek PhD Fellowship | Recipient | 2021 |
+| Novatek PhD Fellowship | Recipient | 2020 |
 | Broadcom Foundation Scholarship | Recipient | 2019 |
 | Synopsys ARC Contest | 3rd Placement | 2017 |
 | International ICCAD Contest | Award Recipient | 2016 |
