@@ -19,7 +19,7 @@ last_modified_at: 2019-03-22T21:49:33-05:00
 
 ## Conference
 
-*Eugene Lee*, Evan Chen and Chen-Yi Lee, "**Few-Shot and Continual Learning with Attentive Independent Mechanisms**", In Proceedings of the International Conference of Computer Vision (ICCV), October 2021 [PDF](https://www.google.com){: .btn .btn--primary .btn--small} [Code](https://www.github.com){: .btn .btn--success .btn--small} [Post](https://eugenelet.github.io/publications/Few-Shot-and-Continual-Learning-with-Attentive-Independent-Mechanisms/){: .btn .btn--info .btn--small}
+*Eugene Lee*, Evan Chen and Chen-Yi Lee, "**Few-Shot and Continual Learning with Attentive Independent Mechanisms**", In Proceedings of the International Conference of Computer Vision (ICCV), October 2021 [PDF](https://www.google.com){: .btn .btn--danger .btn--small} [Code](https://www.github.com){: .btn .btn--success .btn--small} [Post](https://eugenelet.github.io/publications/Few-Shot-and-Continual-Learning-with-Attentive-Independent-Mechanisms/){: .btn .btn--info .btn--small}
 
 *Eugene Lee*, Evan Chen and Chen-Yi Lee, "**Meta-rPPG: Remote Heart Rate Estimation Using a Transductive Meta-Learner**", In Proceedings of the European Conference of Computer Vision (ECCV), August 2020
 
