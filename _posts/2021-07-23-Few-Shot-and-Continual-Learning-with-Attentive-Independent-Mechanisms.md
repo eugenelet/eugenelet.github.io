@@ -1,5 +1,6 @@
 ---
 title: "Few-Shot and Continual Learning with Attentive Independent Mechanisms"
+classes: wide
 categories:
   - Publications
 tags:
