@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Home"
-excerpt: "I'm Eugene, a 2nd year PhD student in Electronics Engineering at National Chiao Tung University, advised by [Dr. Chen-Yi Lee](http://www.si2lab.org/faculty/)."
+excerpt: "I'm Eugene, currently a 4th year PhD student in Electronics Engineering at National Chiao Tung University, advised by [Dr. Chen-Yi Lee](http://www.si2lab.org/faculty/)."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -18,7 +18,7 @@ toc: true
 
 ## About Me
 
-4th year PhD student in Electronics Engineering at National Chiao Tung University, advised by [Dr. Chen-Yi Lee](http://www.si2lab.org/faculty/). Focusing in machine learning approaches suited for self-supervised or autonomous learning. Works mainly on meta-learning, self-supervised learning and neural architecture search problem. Also interested in the application of machine learning techniques on computer vision and multi-dimensional signal related tasks.
+4th year PhD student in Electronics Engineering at National Chiao Tung University, advised by [Dr. Chen-Yi Lee](http://www.si2lab.org/faculty/). Focusing in machine learning approaches suited for self-supervised or autonomous learning. Works mainly on causal learning, meta-learning, self-supervised learning and neural architecture search. Interested in how the brain works and its connection to existing machine learning algorithms.
 
 ## Research
 
@@ -26,17 +26,17 @@ toc: true
 
 | Name                      | Description                  | Year                                         |
 | ------------------------- | ----------------- | ----------------------------------------------------- |
-| Autonomous learning | Motivated by the neuroscience understanding in the close integration of system 1 and system 2 on the behaviour of the human brain, this project aims at designing a self-supervised or autonomous system that is able to perform learning without an explicit objective | 2018~now |
-| Remote Heart Rate Estimation | Commonly used methodology in heart rate estimation requires close contact with the human skin, e.g. electrocardiogram and photoplethysmogram. This project uses a video camera to capture the face of a subject as a signal source for heart rate estimation, hence heart rate estimation can be done remotely | 2017~now |
-| Non-Invasive Blood Glucose Level Estimation | With the inconvenience of current methodology of blood glucose level estimation, this project aims to estimate blood glucose level through the extraction of biomarkers from photoplethysmogram | 2017~now |
+| Autonomous learning | Incorporates self-supervised learning and meta-learning techniques to enable deep models to learn autonomously. Takes learning efficiency and biological plausibility into account during formulation. | 2018~now |
+| Remote Heart Rate Estimation | Commonly used methodology in heart rate estimation requires close contact with the human skin, e.g. electrocardiogram and photoplethysmogram. This project uses a video camera to capture the face of a subject as a signal source for heart rate estimation, hence heart rate estimation can be done remotely. | 2017~now |
+| Non-Invasive Blood Glucose Level Estimation | With the inconvenience of current methodology of blood glucose level estimation, this project aims to estimate blood glucose level through the extraction of biomarkers from photoplethysmogram. | 2017~now |
 
 ### Completed
 
 | Name                      | Description                  | Year                                         |
 | ------------------------- | ----------------- | ----------------------------------------------------- |
-| SSD Hot-Cold Data Prediction | The prediction of hot and cold data in solid state drives to enhance read/write performance | 2018~now |
-| SSD Next Address Prediction | The prediction of next read/write address in solid state drives to enhance read/write performance | 2019~now |
-| Hardware implementation of object tracking algorithm | Hardware Implementation of Scale Invariant Feature Transform (SIFT) co-designed with a Software Implementation of ground vehicle | 2015~2016 |
+| SSD Hot-Cold Data Prediction | The prediction of hot and cold data in solid state drives to enhance read/write performance. | 2018~now |
+| SSD Next Address Prediction | The prediction of next read/write address in solid state drives to enhance read/write performance. | 2019~now |
+| Hardware implementation of object tracking algorithm | Hardware Implementation of Scale Invariant Feature Transform (SIFT) co-designed with a Software Implementation of ground vehicle. | 2015~2016 |
 
 ---
 
@@ -49,7 +49,7 @@ toc: true
 
 | Name                      | Description                  | Year                                         |
 | ------------------------- | ----------------- | ----------------------------------------------------- |
-| Smoke and Fire Detection for Video Surveillance | Deteciton of hazards caused by fire in Taiwan using video camera as a replacement for conventional smoke and fire alarms  | 2019 |
+| Smoke and Fire Detection for Video Surveillance | Deteciton of hazards caused by fire in Taiwan using video camera as a replacement for conventional smoke and fire alarms.  | 2019 |
 
 ---
 
