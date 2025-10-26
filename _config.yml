@@ -15,7 +15,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: computer vision, multimodal systems, machine learning, deep learning, VLM, instance retrieval
 lang: en
-icon: ⚛️
+icon: ⚡
 
 url: https://eugenelet.github.io
 baseurl: "" # IMPORTANT: Leave this empty (not /al-folio) for username.github.io sites
