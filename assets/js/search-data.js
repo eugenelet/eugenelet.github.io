@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Teaching assistant experience at National Chiao Tung University / National Yang Ming Chiao Tung University",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
