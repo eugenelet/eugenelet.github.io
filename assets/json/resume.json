@@ -45,6 +45,7 @@
       "name": "Paidge, Inc.",
       "position": "Founder",
       "location": "Cincinnati, Ohio",
+      "url": "https://paidge.com",
       "url": "",
       "startDate": "2024-01-01",
       "endDate": "Present",
@@ -72,6 +73,7 @@
       "name": "Advanced Bio Chips",
       "position": "CEO",
       "location": "Hsinchu, Taiwan",
+      "url": "https://ab-chips.com",
       "url": "",
       "startDate": "2023-08-01",
       "endDate": "2024-07-01",
@@ -168,6 +170,16 @@
     {
       "language": "Chinese",
       "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Cantonese",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Malay",
+      "fluency": "Fluent",
       "icon": ""
     }
   ],
