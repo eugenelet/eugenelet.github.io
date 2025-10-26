@@ -150,29 +150,13 @@
       "name": "Programming & Frameworks",
       "level": "Expert",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "PyTorch",
-        "Python",
-        "TypeScript/JavaScript",
-        "React",
-        "C/C++",
-        "CUDA",
-        "Verilog"
-      ]
+      "keywords": ["PyTorch", "Python", "TypeScript/JavaScript", "React", "C/C++", "CUDA", "Verilog"]
     },
     {
       "name": "Infrastructure & Tools",
       "level": "Expert",
       "icon": "fa-solid fa-server",
-      "keywords": [
-        "AWS",
-        "Docker",
-        "Node.js",
-        "SQL",
-        "Redis",
-        "iOS",
-        "Android"
-      ]
+      "keywords": ["AWS", "Docker", "Node.js", "SQL", "Redis", "iOS", "Android"]
     }
   ],
   "languages": [
@@ -191,13 +175,7 @@
     {
       "name": "Research",
       "icon": "fa-solid fa-microscope",
-      "keywords": [
-        "Computer Vision",
-        "Multimodal Systems",
-        "Representation Learning",
-        "Vision-Language Models",
-        "Instance Retrieval"
-      ]
+      "keywords": ["Computer Vision", "Multimodal Systems", "Representation Learning", "Vision-Language Models", "Instance Retrieval"]
     }
   ],
   "references": [],
