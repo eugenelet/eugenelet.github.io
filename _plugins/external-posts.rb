@@ -23,10 +23,33 @@ module ExternalPosts
     end
 
     def fetch_from_rss(site, src)
-      xml = HTTParty.get(src['rss_url']).body
-      return if xml.nil?
-      feed = Feedjira.parse(xml)
-      process_entries(site, src, feed.entries)
+      url = src['rss_url']
+      
+      begin
+        response = HTTParty.get(url)
+
+        # 1. Check for HTTP errors (404, 429, 500, etc.)
+        if response.code != 200
+          puts "   ⚠️  HTTP Error: Received code #{response.code} from #{url}"
+          return
+        end
+
+        # 2. Check if body is empty
+        if response.body.nil? || response.body.empty?
+          puts "   ⚠️  Error: Response body is empty for #{url}"
+          return
+        end
+
+        # 3. Try to parse the XML
+        feed = Feedjira.parse(response.body)
+        process_entries(site, src, feed.entries)
+
+      rescue Feedjira::NoParserAvailable
+        puts "   ⚠️  Feed Error: The content at #{url} is not valid XML."
+        puts "       This usually means Medium is returning an HTML error page or blocking the bot."
+      rescue StandardError => e
+        puts "   ⚠️  General Error fetching RSS: #{e.message}"
+      end
     end
 
     def process_entries(site, src, entries)
@@ -69,9 +92,13 @@ module ExternalPosts
     def fetch_from_urls(site, src)
       src['posts'].each do |post|
         puts "...fetching #{post['url']}"
-        content = fetch_content_from_url(post['url'])
-        content[:published] = parse_published_date(post['published_date'])
-        create_document(site, src['name'], post['url'], content)
+        begin
+          content = fetch_content_from_url(post['url'])
+          content[:published] = parse_published_date(post['published_date'])
+          create_document(site, src['name'], post['url'], content)
+        rescue StandardError => e
+          puts "   ⚠️  Error fetching specific URL #{post['url']}: #{e.message}"
+        end
       end
     end
 
