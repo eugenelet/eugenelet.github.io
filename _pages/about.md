@@ -27,12 +27,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Researcher in computer vision and multimodal systems with interests in representation learning, token-efficient VLMs, agentic pipelines, and robust perception for real-world interaction.
 
-I'm currently a postdoctoral researcher at the University of Cincinnati, College of Medicine, where I build imaging pipelines for organelle dynamics and explore in-context learning with Large Language Models for biological applications. My recent work spans segmentation, temporal modeling, and unsupervised analysis to accelerate biology workflows.
+**Researcher in Computer Vision and Vision-Language Reasoning** with a focus on representation learning, token-efficient VLMs, and the evolution of LLMs through in-context learning and test-time adaptation.
 
-As the founder of **[Paidge](https://paidge.com)**, I'm building an object-intelligence platform to index physical assets at scale and enable scan-based, conversational interaction. I've completed 3 pilots with museums in the Greater Cincinnati area and maintain a 20+ customer waitlist. The platform leverages a proprietary multi-frame aggregation model on a Perception Encoder with FAISS for efficient instance retrieval, integrated with a lightweight GraphRAG system for high-throughput indexing of millions of objects.
+Currently a **Postdoctoral Researcher at the University of Cincinnati**, my work bridges fundamental and applied AI. My fundamental research explores the mechanisms of **in-context learning (ICL)** and **test-time adaptation (TTA)** for LLMs to enhance model flexibility without retraining. On the applied side, I develop **Vision-Language Models (VLMs) for biological applications**, building imaging pipelines for organelle dynamics and utilizing LLMs to accelerate complex biological workflows through segmentation and temporal modeling.
 
-I earned my Ph.D. in Electronics Engineering from National Yang Ming Chiao Tung University (2023) under Prof. Chen-Yi Lee, where my research focused on efficient deep learning, meta-learning, and resource-constrained neural networks. My work has been published at top-tier venues including CVPR (Oral), ICCV, ECCV, and WACV, with over 400 citations (h-index: 6).
+Previously, I founded **[Paidge](https://paidge.com)**, an object-intelligence platform designed to index physical assets via scan-based conversational interaction. I led the development of a multi-frame aggregation model and a **Perception Encoder with FAISS** for efficient retrieval, integrated with a **GraphRAG system** for high-throughput indexing. The technology was successfully validated through multiple pilots with museums in the Greater Cincinnati area.
 
-My technical expertise spans PyTorch, Python, TypeScript/JavaScript, React, C/C++, CUDA, and deployment infrastructure including AWS, Docker, and mobile platforms (iOS/Android). I'm passionate about bridging cutting-edge research with real-world applications that solve practical problems at scale.
+I earned my **Ph.D. in Electronics Engineering from National Yang Ming Chiao Tung University (2023)** under Prof. Chen-Yi Lee. My doctoral research focused on efficient deep learning, meta-learning, and resource-constrained neural networks, resulting in publications at top-tier venues including **CVPR (Oral), ICCV, ECCV, and WACV**.
+
+---
+
+### **Technical Expertise**
+
+* **Core Research:** In-context learning (ICL), Test-time adaptation (TTA), Multimodal reasoning, and Robust perception.
+* **Frameworks & Languages:** PyTorch, Python, CUDA, C/C++, TypeScript, React.
+* **Infrastructure:** AWS, Docker, iOS/Android deployment platforms.
