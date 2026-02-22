@@ -27,7 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
 **Researcher in Computer Vision and Vision-Language Reasoning** with a focus on representation learning, token-efficient VLMs, and the evolution of LLMs through in-context learning and test-time adaptation.
 
 Currently a **Postdoctoral Researcher at the University of Cincinnati**, my work bridges fundamental and applied AI. My fundamental research explores the mechanisms of **in-context learning (ICL)** and **test-time adaptation (TTA)** for LLMs to enhance model flexibility without retraining. On the applied side, I develop **Vision-Language Models (VLMs) for biological applications**, building imaging pipelines for organelle dynamics and utilizing LLMs to accelerate complex biological workflows through segmentation and temporal modeling.
@@ -40,6 +39,6 @@ I earned my **Ph.D. in Electronics Engineering from National Yang Ming Chiao Tun
 
 ### **Technical Expertise**
 
-* **Core Research:** In-context learning (ICL), Test-time adaptation (TTA), Multimodal reasoning, and Robust perception.
-* **Frameworks & Languages:** PyTorch, Python, CUDA, C/C++, TypeScript, React.
-* **Infrastructure:** AWS, Docker, iOS/Android deployment platforms.
+- **Core Research:** In-context learning (ICL), Test-time adaptation (TTA), Multimodal reasoning, and Robust perception.
+- **Frameworks & Languages:** PyTorch, Python, CUDA, C/C++, TypeScript, React.
+- **Infrastructure:** AWS, Docker, iOS/Android deployment platforms.
