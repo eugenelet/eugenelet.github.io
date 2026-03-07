@@ -9,7 +9,7 @@ last_name: Lee
 contact_note: >
   Feel free to reach out via email or LinkedIn.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Researcher in computer vision and multimodal systems with interests in representation learning, token-efficient VLMs, agentic pipelines, and robust perception for real-world interaction.
+  AI Researcher specializing in in-context learning and test-time adaptation for Multimodal Large Language Models. Expertise in model compression, resource-constrained architectures, and multimodal alignment with focus on maximizing data efficiency and continual learning. Proven track record of translating research into production-ready solutions with real-world impact.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
