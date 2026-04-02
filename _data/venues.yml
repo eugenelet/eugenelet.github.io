@@ -7,3 +7,14 @@
 
 "Vision":
   color: "#009f36"
+
+ECCV:
+  color: "#007bff"
+ICCV:
+  color: "#28a745"
+CVPR:
+  color: "#dc3545"
+ICASSP:
+  color: "#ffc107"
+WACV:
+  color: "#17a2b8"
