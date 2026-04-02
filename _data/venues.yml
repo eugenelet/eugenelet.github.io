@@ -10,11 +10,36 @@
 
 ECCV:
   color: "#007bff"
+
 ICCV:
   color: "#28a745"
+
 CVPR:
   color: "#dc3545"
+
+CVPRW:
+  color: "#b02a37"
+
 ICASSP:
   color: "#ffc107"
+
 WACV:
+  color: "#6f42c1"
+
+ISCAS:
+  color: "#fd7e14"
+
+"IEEE Sensors":
   color: "#17a2b8"
+
+Micromachines:
+  color: "#e83e8c"
+
+"MT Bio":
+  color: "#20c997"
+
+Aggregate:
+  color: "#6610f2"
+
+bioRxiv:
+  color: "#6c757d"
