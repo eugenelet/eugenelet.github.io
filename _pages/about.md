@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Cincinnati, Ohio</p>
-    <p><a href="mailto:eugeneleeeutzuan@gmail.com">eugeneleeeutzuan@gmail.com</a></p>
+    <p><a href="mailto:ai.eugenelee@gmail.com">ai.eugenelee@gmail.com</a></p>
     <p>(513) 257-8766</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
