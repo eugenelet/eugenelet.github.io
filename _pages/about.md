@@ -68,13 +68,24 @@ I will be joining Qualcomm AI Research soon as a Senior Machine Learning Researc
 
 <!-- prettier-ignore -->
 <style>
-  .profile .more-info a {
-    border-bottom: none !important;
+  .profile .more-info a,
+  .profile .more-info a:hover {
+    border: none !important;
     text-decoration: none !important;
     box-shadow: none !important;
+    background: transparent !important;
+    background-image: none !important;
+    display: inline !important;
+  }
+
+  .profile .more-info a::after,
+  .profile .more-info a::before {
+    display: none !important;
+    content: none !important;
   }
   
   .profile .more-info p {
     margin-bottom: 0.2rem !important;
+    border: none !important;
   }
 </style>
