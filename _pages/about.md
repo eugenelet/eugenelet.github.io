@@ -58,7 +58,8 @@ I will be joining Qualcomm AI Research soon as a Senior Machine Learning Researc
   <p>I earned my <strong>Ph.D. in Electronics Engineering from National Yang Ming Chiao Tung University (2023)</strong> under Prof. Chen-Yi Lee. My doctoral research focused on efficient deep learning, meta-learning, and resource-constrained neural networks, resulting in publications at top-tier venues including <strong>CVPR, ICCV, ECCV, and WACV</strong>.</p>
 </details>
 
----
+<div class="clearfix"></div>
+<hr>
 
 ### **Technical Expertise**
 
@@ -66,26 +67,3 @@ I will be joining Qualcomm AI Research soon as a Senior Machine Learning Researc
 - **Frameworks & Languages:** PyTorch, Python, CUDA, C/C++, TypeScript, React.
 - **Infrastructure:** AWS, Docker, iOS/Android deployment platforms.
 
-<!-- prettier-ignore -->
-<style>
-  .profile .more-info a,
-  .profile .more-info a:hover {
-    border: none !important;
-    text-decoration: none !important;
-    box-shadow: none !important;
-    background: transparent !important;
-    background-image: none !important;
-    display: inline !important;
-  }
-
-  .profile .more-info a::after,
-  .profile .more-info a::before {
-    display: none !important;
-    content: none !important;
-  }
-  
-  .profile .more-info p {
-    margin-bottom: 0.2rem !important;
-    border: none !important;
-  }
-</style>
