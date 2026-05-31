@@ -66,4 +66,3 @@ I will be joining Qualcomm AI Research soon as a Senior Machine Learning Researc
 - **Core Research:** In-context learning (ICL), Test-time adaptation (TTA), Multimodal reasoning, and Robust perception.
 - **Frameworks & Languages:** PyTorch, Python, CUDA, C/C++, TypeScript, React.
 - **Infrastructure:** AWS, Docker, iOS/Android deployment platforms.
-
