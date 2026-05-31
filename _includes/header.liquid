@@ -58,6 +58,10 @@
 
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
+          <!-- Direct link to Paidge Research Blog -->
+          <li class="nav-item">
+            <a class="nav-link" href="https://paidge.com" target="_blank" rel="noopener noreferrer">blog</a>
+          </li>
           {% for p in sorted_pages %}
             {% if p.nav and p.autogen == null %}
               {% if p.dropdown %}
