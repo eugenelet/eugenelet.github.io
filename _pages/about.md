@@ -31,6 +31,12 @@ latest_posts:
 
 I will be joining Qualcomm AI Research soon as a Senior Machine Learning Researcher working on On-Device LLM Efficiency.
 
+<div class="mt-3 mb-4">
+  <a href="https://paidge.com" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener noreferrer">
+    <i class="fas fa-blog"></i> Read my Research Notes
+  </a>
+</div>
+
 <details>
   <summary><strong>Postdoctoral Researcher, University of Cincinnati (Present)</strong></summary>
   <p>Currently a Postdoctoral Researcher at the College of Medicine, my work bridges fundamental and applied AI. My fundamental research explores the mechanisms of <strong>in-context learning (ICL)</strong> and <strong>test-time adaptation (TTA)</strong> for LLMs to enhance model flexibility without retraining. On the applied side, I develop <strong>Vision-Language Models (VLMs) for biological applications</strong>, building imaging pipelines for organelle dynamics and utilizing LLMs to accelerate complex biological workflows through segmentation and temporal modeling.</p>
