@@ -67,6 +67,7 @@ I will be joining Qualcomm AI Research soon as a Senior Machine Learning Researc
 - **Infrastructure:** AWS, Docker, iOS/Android deployment platforms.
 
 
+<!-- prettier-ignore -->
 <style>
   .profile .more-info a {
     border-bottom: none !important;
