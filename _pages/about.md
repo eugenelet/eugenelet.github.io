@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Cincinnati, Ohio</p>
-    <p><a href="mailto:ai.eugenelee@gmail.com">ai.eugenelee@gmail.com</a></p>
-    <p>(513) 257-8766</p>
+    Cincinnati, Ohio<br>
+    <a href="mailto:ai.eugenelee@gmail.com" style="border-bottom: none;">ai.eugenelee@gmail.com</a><br>
+    (513) 257-8766
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
