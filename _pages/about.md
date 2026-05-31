@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Cincinnati, Ohio<br>
-    <a href="mailto:ai.eugenelee@gmail.com" style="text-decoration: none !important; border: none !important; box-shadow: none !important; background: none !important;">ai.eugenelee@gmail.com</a><br>
-    (513) 257-8766
+    <p>Cincinnati, Ohio</p>
+    <p><a href="mailto:ai.eugenelee@gmail.com">ai.eugenelee@gmail.com</a></p>
+    <p>(513) 257-8766</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -65,3 +65,16 @@ I will be joining Qualcomm AI Research soon as a Senior Machine Learning Researc
 - **Core Research:** In-context learning (ICL), Test-time adaptation (TTA), Multimodal reasoning, and Robust perception.
 - **Frameworks & Languages:** PyTorch, Python, CUDA, C/C++, TypeScript, React.
 - **Infrastructure:** AWS, Docker, iOS/Android deployment platforms.
+
+
+<style>
+  .profile .more-info a {
+    border-bottom: none !important;
+    text-decoration: none !important;
+    box-shadow: none !important;
+  }
+  
+  .profile .more-info p {
+    margin-bottom: 0.2rem !important;
+  }
+</style>
